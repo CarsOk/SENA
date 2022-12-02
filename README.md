@@ -5,5 +5,6 @@ Repositorio con material de estudio y actividades en clase cargada por los apren
 
 ### ADSI
 
+- [2206442](ADSI2206442/readme.md)
 - [2451831](ADSI2451831/readme.md)
 - [2558427](ADSO2558427/readme.md)
